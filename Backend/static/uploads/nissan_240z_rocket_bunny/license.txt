@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan 240z Rocket Bunny
+* source:	https://sketchfab.com/3d-models/nissan-240z-rocket-bunny-2e8630e7c085464cb332cec0f5faaef0
+* author:	danok98 (https://sketchfab.com/danok98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan 240z Rocket Bunny" (https://sketchfab.com/3d-models/nissan-240z-rocket-bunny-2e8630e7c085464cb332cec0f5faaef0) by danok98 (https://sketchfab.com/danok98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

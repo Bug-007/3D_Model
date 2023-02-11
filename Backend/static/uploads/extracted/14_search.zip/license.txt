@@ -1,0 +1,11 @@
+Model Information:
+* title:	#14 Search
+* source:	https://sketchfab.com/3d-models/14-search-792b8ac643ab4b229a388593b361f17d
+* author:	Nevermoredmb (https://sketchfab.com/nevermoredmb)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "#14 Search" (https://sketchfab.com/3d-models/14-search-792b8ac643ab4b229a388593b361f17d) by Nevermoredmb (https://sketchfab.com/nevermoredmb) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

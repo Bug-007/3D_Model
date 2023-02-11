@@ -1,0 +1,11 @@
+Model Information:
+* title:	Luigi's Mansion x Resident Evil
+* source:	https://sketchfab.com/3d-models/luigis-mansion-x-resident-evil-452b7a907afa467c8d0daef13aa6f955
+* author:	glenatron (https://sketchfab.com/glenatron)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Luigi's Mansion x Resident Evil" (https://sketchfab.com/3d-models/luigis-mansion-x-resident-evil-452b7a907afa467c8d0daef13aa6f955) by glenatron (https://sketchfab.com/glenatron) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

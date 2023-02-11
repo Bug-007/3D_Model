@@ -1,0 +1,11 @@
+Model Information:
+* title:	240 sx NFS Pro Street
+* source:	https://sketchfab.com/3d-models/240-sx-nfs-pro-street-981f03e9b0294d779047c214fd4406d9
+* author:	memoov (https://sketchfab.com/movartD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "240 sx NFS Pro Street" (https://sketchfab.com/3d-models/240-sx-nfs-pro-street-981f03e9b0294d779047c214fd4406d9) by memoov (https://sketchfab.com/movartD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
